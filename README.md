@@ -69,7 +69,7 @@ pip install pandas numpy scikit-learn scikit-fuzzy tensorflow matplotlib seaborn
 Open the notebook in your preferred environment (Jupyter or Google Colab) and run the pipeline cells sequentially:
 
 ```Bash
-jupyter notebook "TCI Project Source_Code (Group60).ipynb"
+jupyter notebook "Customer Segmentation Using Soft Computing.ipynb"
 ```
 📂 Project Structure
 Plaintext
